@@ -10,7 +10,7 @@ spec:
     metadata:
        labels:
           app: mylogin
-  spec:
+    spec:
       containers:
       - name: mylogin-container   
         image: maha4iac/myonlinebooking:1
